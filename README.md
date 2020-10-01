@@ -10,7 +10,7 @@
 
 It's a starter static website which useful plugins based on [Gatsby](https://www.gatsbyjs.org/) .
 
-## 🚀 Quick start
+## 🚀 Quick start. get set go
 
 1. **Install the Gatsby CLI.**
 
